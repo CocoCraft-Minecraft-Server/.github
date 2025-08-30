@@ -74,7 +74,7 @@ Public repositories serve as a showcase (docs, screenshots, roadmaps), while **p
     <td valign="top" align="center" width="33%">
       <img src="assets/bot-verification.png" width="96" alt="CocoCraft Verification"><br>
       <img alt="2" src="https://img.shields.io/badge/2-C0C0C0?style=for-the-badge&labelColor=2e3440">
-      <h3 style="margin:6px 0">CocoCraft Auto</h3>
+      <h3 style="margin:6px 0">CocoCraft Verification</h3>
       <sub>Roles & DiscordSRV sync</sub><br><br>
   <a href="REPO_URL_MAIN_README"><img alt="README" src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
   <a href="REPO_URL_MAIN_ROADMAP"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
