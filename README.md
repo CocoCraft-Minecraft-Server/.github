@@ -61,39 +61,41 @@ This space blends a public showcase (docs, screenshots) with internal work (road
   <img alt="Lang"    src="https://img.shields.io/badge/Language-ES--first%20·%20EN-111111?style=for-the-badge">
 </p>
 
----
 <h2 align="center">🔥 Top Bots</h2>
 
 <div align="center">
-
 <table>
   <tr>
     <!-- #2 LEFT -->
     <td valign="top" align="center" width="33%">
-      <img src="assets/bot-verification.png" width="72" alt="CocoCraft Verification"><br>
+      <img src="assets/bot-verification.png" width="96" alt="CocoCraft Verification"><br>
       <img alt="2" src="https://img.shields.io/badge/2-C0C0C0?style=for-the-badge&labelColor=2e3440">
       <h3 style="margin:6px 0">CocoCraft Verification</h3>
       <sub>Roles & DiscordSRV sync</sub><br><br>
-      <a href="#"><img alt="README"   src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
-      <a href="#"><img alt="ROADMAP"  src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+      <a href="#"><img alt="README"  src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
+      <a href="#"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+    </td>
     <td valign="top" align="center" width="33%">
-      <img src="assets/bot-cococraft.png" width="72" alt="CocoCraft Bot"><br>
+      <img src="assets/bot-cococraft.png" width="96" alt="CocoCraft Bot"><br>
       <img alt="1" src="https://img.shields.io/badge/1-FFD700?style=for-the-badge&labelColor=2e3440">
       <h3 style="margin:6px 0">CocoCraft Bot</h3>
       <sub>Main “mother” bot · Discord ↔ Minecraft</sub><br><br>
       <a href="https://github.com/CocoCraft-Minecraft-Server/cococraft-bot-public">
         <img alt="README" src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge">
-      <a href="#"><img alt="ROADMAP"  src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+      </a>
+      <a href="#"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+    </td>
     <td valign="top" align="center" width="33%">
-      <img src="assets/bot-cocoradio.png" width="72" alt="CocoRadio"><br>
+      <img src="assets/bot-cocoradio.png" width="96" alt="CocoRadio"><br>
       <img alt="3" src="https://img.shields.io/badge/3-CD7F32?style=for-the-badge&labelColor=2e3440">
       <h3 style="margin:6px 0">CocoRadio</h3>
       <sub>In development</sub><br><br>
-      <a href="#"><img alt="README"   src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
-      <a href="#"><img alt="ROADMAP"  src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+      <a href="#"><img alt="README"  src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
+      <a href="#"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
     </td>
   </tr>
 </table>
+</div>
 
 </div>
 
