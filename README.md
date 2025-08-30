@@ -2,28 +2,39 @@
   <img src="assets/banner.png" alt="banner" width="100%">
 </p>
 
-<h1 align="center">CocoCraft</h1>
+<!-- Botones principales (centrados) -->
 <p align="center">
+  <!-- Discord -->
   <a href="https://discord.gg/cococraft">
-    <img alt="Discord" src="https://img.shields.io/badge/discord.gg/cococraft-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img alt="Discord" 
+         src="https://img.shields.io/badge/discord.gg/cococraft-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="#">
-    <img alt="IP" src="https://img.shields.io/badge/IP-play.cococraft.net-2e3440?style=for-the-badge&logo=minecraft&logoColor=white">
+  <!-- IP (no tiene link real, puedes apuntar a tu web /join o docs) -->
+  <a href="https://cococraft.net/join">
+    <img alt="PLAY.COCOCRAFT.NET" 
+         src="https://img.shields.io/badge/play.cococraft.net-2E3440?style=for-the-badge&logo=minecraft&logoColor=white">
   </a>
 </p>
 
+<!-- Redes sociales (colores de marca) -->
 <p align="center">
-  <!-- deja espacio para redes -->
-  <a href="https://tiktok.com/@<tu_usuario>">
-    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-@<tu_usuario>-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  <!-- TikTok -->
+  <a href="https://tiktok.com/@CocoCraft">
+    <img alt="TikTok" 
+         src="https://img.shields.io/badge/TikTok-@TU_USUARIO-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <a href="https://instagram.com/<tu_usuario>">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@<tu_usuario>-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <!-- Instagram -->
+  <a href="https://instagram.com/CocoCraft">
+    <img alt="Instagram" 
+         src="https://img.shields.io/badge/Instagram-@TU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://twitter.com/<tu_usuario>">
-    <img alt="X" src="https://img.shields.io/badge/X-@<tu_usuario>-111?style=for-the-badge&logo=x&logoColor=white">
+  <!-- X/Twitter -->
+  <a href="https://x.com/CocoCraft">
+    <img alt="X" 
+         src="https://img.shields.io/badge/X-@TU_USUARIO-111111?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
+
 
 ---
 
