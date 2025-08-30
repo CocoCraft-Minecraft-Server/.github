@@ -1,6 +1,6 @@
 <!-- .github/profile/README.md -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CocoCraft-Minecraft-Server/.github/main/profile/assets/banner.png" alt="CocoCraft Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/CocoCraft-Minecraft-Server/.github/main/profile/assets/banner.png" alt="banner" width="100%">
 </p>
 
 <h1 align="center">CocoCraft</h1>
