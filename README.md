@@ -37,7 +37,7 @@
 
 
 ---
-## ℹ️ About
+<h2 align="center">ℹ️ About</h2>
 
 **Official CocoCraft GitHub Organization.**  
 Built on our popular Minecraft server **CocoCraft (Towny)**.  
@@ -48,18 +48,18 @@ This space blends a public showcase (docs, screenshots) with internal work (road
 
 ---
 
-## 📊 Stats (snapshot)
-| Dato | Valor |
-|---|---|
-| Región | **Sydney, AU** |
-| Hosting | **Railway** |
-| Runtime | **Node 18+ / discord.js v14** |
-| Uptime (objetivo) | **99.9%** |
-| Latencia típica | **< 200 ms** *(discord ↔ bot ↔ RCON, diseño)* |
-| Comandos activos | **10+** |
-| Equipo | **Moonky & Cheese** |
+<h2 align="center">📌 Server Quick Facts</h2>
 
-> Actualiza estos números cuando quieras. Si luego quieres hacerlos **dinámicos**, montamos un badge JSON.
+<p align="center">
+  <img alt="Host"    src="https://img.shields.io/badge/Host-Apex%20Hosting-16a34a?style=for-the-badge">
+  <img alt="Region"  src="https://img.shields.io/badge/Region-United%20States%20🇺🇸-1d4ed8?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/Version-1.20%2B-3C8527?style=for-the-badge&logo=minecraft&logoColor=white">
+  <img alt="Mode"    src="https://img.shields.io/badge/Mode-Towny%20·%20Survival-8b5cf6?style=for-the-badge">
+  <img alt="Economy" src="https://img.shields.io/badge/Economy-Shops%20·%20Jobs%20·%20Stocks-f59e0b?style=for-the-badge">
+  <img alt="Backups" src="https://img.shields.io/badge/Backups-Daily-06b6d4?style=for-the-badge">
+  <img alt="Uptime"  src="https://img.shields.io/badge/Uptime-99.9%25-22c55e?style=for-the-badge">
+  <img alt="Lang"    src="https://img.shields.io/badge/Language-ES--first%20·%20EN-111111?style=for-the-badge">
+</p>
 
 ---
 
@@ -95,6 +95,21 @@ This space blends a public showcase (docs, screenshots) with internal work (road
     </td>
   </tr>
 </table>
+
+
+<h2 align="center">🧰 Tech & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,discord,java,nginx,mysql,redis,docker,cloudflare,linux,git,githubactions&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/PaperMC-1.20%2B-ff5722?style=for-the-badge&logo=minecraft&logoColor=white">
+  <img src="https://img.shields.io/badge/Towny-Plugin-0ea5e9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LuckPerms-Roles-10b981?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Railway-Deploy-0B0?style=for-the-badge&logo=railway">
+</p>
 
 ---
 
