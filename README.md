@@ -1,10 +1,8 @@
-<!-- .github/profile/README.md -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CocoCraft-Minecraft-Server/.github/main/profile/assets/banner.png" alt="banner" width="100%">
+  <img src="assets/banner.png" alt="banner" width="100%">
 </p>
 
 <h1 align="center">CocoCraft</h1>
-
 <p align="center">
   <a href="https://discord.gg/cococraft">
     <img alt="Discord" src="https://img.shields.io/badge/discord.gg/cococraft-5865F2?style=for-the-badge&logo=discord&logoColor=white">
