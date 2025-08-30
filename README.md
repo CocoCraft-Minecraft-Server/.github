@@ -37,15 +37,14 @@
 
 
 ---
+## ℹ️ About
 
-## ⚡ Highlights
-- **Respuesta instantánea**: pensado para latencias bajas y feedback rápido en cada comando.
-- **Experiencia pulida**: mensajes/embeds claros, estados útiles y flows sin fricción.
-- **Blindado**: variables `.env`, permisos mínimos y rutas controladas.
-- **Siempre arriba**: despliegue limpio + watchdog + keep-alive.
-- **Hecho a medida de Towny**: integra Discord ↔ Minecraft con foco en economía y comunidad.
+**Official CocoCraft GitHub Organization.**  
+Built on our popular Minecraft server **CocoCraft (Towny)**.  
+Here you’ll find a behind-the-scenes look at how our bots, workflows, and tools keep the community alive—powering economy, verification, and support.
 
-> *Meta vibes, no lista técnica — el “aura” de que es el bot más completo y rápido de la casa 😉.*
+We’re not perfect, but we iterate fast and **always aim for success**.  
+This space blends a public showcase (docs, screenshots) with internal work (roadmaps, ideas, experiments), while keeping **production code private** for security.
 
 ---
 
