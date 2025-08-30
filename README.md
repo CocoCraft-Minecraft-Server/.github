@@ -85,14 +85,15 @@ This space blends a public showcase (docs, screenshots) with internal work (road
       </a>
       <a href="#"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
     </td>
-    <td valign="top" align="center" width="33%">
-      <img src="assets/bot-cocoradio.png" width="96" alt="CocoRadio"><br>
-      <img alt="3" src="https://img.shields.io/badge/3-CD7F32?style=for-the-badge&labelColor=2e3440">
-      <h3 style="margin:6px 0">CocoRadio</h3>
-      <sub>In development</sub><br><br>
-      <a href="#"><img alt="README"  src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
-      <a href="#"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
-    </td>
+   <!-- #3 RIGHT -->
+<td valign="top" align="center" width="33%">
+  <img src="assets/bot-cocoradio.png" width="96" alt="CocoRadio"><br>
+  <img alt="3" src="https://img.shields.io/badge/3-CD7F32?style=for-the-badge&labelColor=2e3440">
+  <h3 style="margin:6px 0">CocoRadio</h3>
+  <sub>In development<br>&nbsp;</sub><br><br>
+  <a href="REPO_URL_RADIO_README"><img alt="README"  src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
+  <a href="REPO_URL_RADIO_ROADMAP"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+</td>
   </tr>
 </table>
 </div>
