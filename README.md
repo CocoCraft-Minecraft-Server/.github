@@ -12,7 +12,7 @@
   <!-- IP (no tiene link real, puedes apuntar a tu web /join o docs) -->
   <a href="https://cococraft.net/join">
     <img alt="IP: PLAY.COCOCRAFT.NET" 
-         src="https://img.shields.io/badge/IP: play.cococraft.net-7CF562?style=for-the-badge&logo=minecraft&logoColor=white">
+         src="https://img.shields.io/badge/IP: play.cococraft.net-3C4A38?style=for-the-badge&logo=minecraft&logoColor=white">
   </a>
 </p>
 
