@@ -62,39 +62,41 @@ This space blends a public showcase (docs, screenshots) with internal work (road
 </p>
 
 ---
+<h2 align="center">🔥 Top Bots</h2>
 
-## 🔥 Top Bots
-<!-- Estilo “cards” con tabla simple -->
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/CocoCraft-Minecraft-Server/.github/main/profile/assets/cocobot.png" width="64"><br>
-      <b>CocoCraft Bot</b><br>
-      <sub>Core · Discord ↔ Minecraft</sub><br><br>
+    <!-- #2 LEFT -->
+    <td valign="top" align="center" width="33%">
+      <img src="assets/bot-verification.png" width="72" alt="CocoCraft Verification"><br>
+      <img alt="2" src="https://img.shields.io/badge/2-C0C0C0?style=for-the-badge&labelColor=2e3440">
+      <h3 style="margin:6px 0">CocoCraft Verification</h3>
+      <sub>Roles & DiscordSRV sync</sub><br><br>
+      <a href="#"><img alt="README"   src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
+      <a href="#"><img alt="ROADMAP"  src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+    <td valign="top" align="center" width="33%">
+      <img src="assets/bot-cococraft.png" width="72" alt="CocoCraft Bot"><br>
+      <img alt="1" src="https://img.shields.io/badge/1-FFD700?style=for-the-badge&labelColor=2e3440">
+      <h3 style="margin:6px 0">CocoCraft Bot</h3>
+      <sub>Main “mother” bot · Discord ↔ Minecraft</sub><br><br>
       <a href="https://github.com/CocoCraft-Minecraft-Server/cococraft-bot-public">
-        <img src="https://img.shields.io/badge/View-README-4cadd0?style=for-the-badge">
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/CocoCraft-Minecraft-Server/.github/main/profile/assets/verify.png" width="64"><br>
-      <b>CocoCraft Verificación</b><br>
-      <sub>Roles & sync con DiscordSRV</sub><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Docs-Próximamente-2e3440?style=for-the-badge"></a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/CocoCraft-Minecraft-Server/.github/main/profile/assets/tickets.png" width="64"><br>
-      <b>Tickets & Transcripts</b><br>
-      <sub>Soporte y registros</sub><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Preview-Img-2e3440?style=for-the-badge"></a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/CocoCraft-Minecraft-Server/.github/main/profile/assets/status.png" width="64"><br>
-      <b>Status & RCON</b><br>
-      <sub>Estado del server en vivo</sub><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Preview-Img-2e3440?style=for-the-badge"></a>
+        <img alt="README" src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge">
+      <a href="#"><img alt="ROADMAP"  src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+    <td valign="top" align="center" width="33%">
+      <img src="assets/bot-cocoradio.png" width="72" alt="CocoRadio"><br>
+      <img alt="3" src="https://img.shields.io/badge/3-CD7F32?style=for-the-badge&labelColor=2e3440">
+      <h3 style="margin:6px 0">CocoRadio</h3>
+      <sub>In development</sub><br><br>
+      <a href="#"><img alt="README"   src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
+      <a href="#"><img alt="ROADMAP"  src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 
 <h2 align="center">🧰 Tech & Tools</h2>
@@ -112,16 +114,3 @@ This space blends a public showcase (docs, screenshots) with internal work (road
 </p>
 
 ---
-
-## 📦 Proyectos
-- [`cococraft-bot-public`](https://github.com/CocoCraft-Minecraft-Server/cococraft-bot-public) — Vitrina pública (README + assets)
-- `cococraft-bot` *(privado)* — Bot principal en producción
-- *(Opcional)* `infra` — docs internas / despliegue
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CocoCraft-Minecraft-Server/.github/main/profile/assets/logo.png" width="56" /><br>
-  Hecho con ❤️ por <b>Moonky</b> & <b>Cheese</b>
-</p>
-
