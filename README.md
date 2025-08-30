@@ -11,8 +11,8 @@
   </a>
   <!-- IP (no tiene link real, puedes apuntar a tu web /join o docs) -->
   <a href="https://cococraft.net/join">
-    <img alt="PLAY.COCOCRAFT.NET" 
-         src="https://img.shields.io/badge/play.cococraft.net-2E3440?style=for-the-badge&logo=minecraft&logoColor=white">
+    <img alt="IP: PLAY.COCOCRAFT.NET" 
+         src="https://img.shields.io/badge/IP: play.cococraft.net-7CF562?style=for-the-badge&logo=minecraft&logoColor=white">
   </a>
 </p>
 
@@ -21,17 +21,17 @@
   <!-- TikTok -->
   <a href="https://tiktok.com/@CocoCraft">
     <img alt="TikTok" 
-         src="https://img.shields.io/badge/TikTok-@TU_USUARIO-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+         src="https://img.shields.io/badge/TikTok-@CocoCraft-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/CocoCraft">
     <img alt="Instagram" 
-         src="https://img.shields.io/badge/Instagram-@TU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+         src="https://img.shields.io/badge/Instagram-@CocoCraft-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <!-- X/Twitter -->
   <a href="https://x.com/CocoCraft">
     <img alt="X" 
-         src="https://img.shields.io/badge/X-@TU_USUARIO-111111?style=for-the-badge&logo=x&logoColor=white">
+         src="https://img.shields.io/badge/X-@CocoCraft-ffffff?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
 
