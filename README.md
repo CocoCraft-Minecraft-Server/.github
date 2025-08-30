@@ -39,12 +39,16 @@
 ---
 <h2 align="center">ℹ️ About</h2>
 
-**Official CocoCraft GitHub Organization.**  
-Built on our popular Minecraft server **CocoCraft (Towny)**.  
-Here you’ll find a behind-the-scenes look at how our bots, workflows, and tools keep the community alive—powering economy, verification, and support.
+**Official CocoCraft Github**. 
 
-We’re not perfect, but we iterate fast and **always aim for success**.  
-This space blends a public showcase (docs, screenshots) with internal work (roadmaps, ideas, experiments), while keeping **production code private** for security.
+Here we design, document, and maintain the bots and tools that keep the community thriving—verification, moderation, tickets, economy, and live server status.
+
+Our goal is a smooth, low-latency **Discord ↔ Minecraft** experience.  
+We iterate quickly, learn in public, and keep reliability and security front and center.
+
+Public repositories serve as a showcase (docs, screenshots, roadmaps), while **production code remains private**.
+
+**Maintainers:** Cheese & Moonky
 
 ---
 
@@ -72,8 +76,8 @@ This space blends a public showcase (docs, screenshots) with internal work (road
       <img alt="2" src="https://img.shields.io/badge/2-C0C0C0?style=for-the-badge&labelColor=2e3440">
       <h3 style="margin:6px 0">CocoCraft Verification</h3>
       <sub>Roles & DiscordSRV sync</sub><br><br>
-      <a href="#"><img alt="README"  src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
-      <a href="#"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+  <a href="REPO_URL_MAIN_README"><img alt="README" src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
+  <a href="REPO_URL_MAIN_ROADMAP"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
     </td>
     <td valign="top" align="center" width="33%">
       <img src="assets/bot-cococraft.png" width="96" alt="CocoCraft Bot"><br>
@@ -81,9 +85,8 @@ This space blends a public showcase (docs, screenshots) with internal work (road
       <h3 style="margin:6px 0">CocoCraft Bot</h3>
       <sub>Main “mother” bot · Discord ↔ Minecraft</sub><br><br>
       <a href="https://github.com/CocoCraft-Minecraft-Server/cococraft-bot-public">
-        <img alt="README" src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge">
-      </a>
-      <a href="#"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
+       <a href="REPO_URL_MAIN_README"><img alt="README" src="https://img.shields.io/badge/README-4cadd0?style=for-the-badge"></a>
+  <a href="REPO_URL_MAIN_ROADMAP"><img alt="ROADMAP" src="https://img.shields.io/badge/ROADMAP-2e3440?style=for-the-badge"></a>
     </td>
    <!-- #3 RIGHT -->
 <td valign="top" align="center" width="33%">
